@@ -4,10 +4,10 @@
     "slug": "weatheAPK",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weather-app.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/weather.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
